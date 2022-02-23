@@ -3,4 +3,4 @@
 ## Smaller heading
 ##### smaller ehading
 **Bold** 
-~~*italic*iii~~
+~~*italic*iii~~*italic*
